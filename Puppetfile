@@ -67,7 +67,7 @@ github "xquartz",     "1.1.1"
 github "java",     "1.4.0"
 ## TODO: add groovy
 
-## Databases (for oracle use LDSTech Oracle VM with Vagrant)
+## Databases (for oracle use LDSTech Oracle VM with virtualbox)
 github "mysql",    "1.2.0"
 
 ## IDEs
