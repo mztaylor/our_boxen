@@ -48,14 +48,38 @@ github "hub",         "1.3.0"
 github "inifile",     "1.0.3", :repo => "puppetlabs/puppetlabs-inifile"
 github "nginx",       "1.4.3"
 github "nodejs",      "3.7.0"
-github "openssl",     "1.0.0"
+## github "openssl",     "1.0.0"
 github "phantomjs",   "2.1.0"
 github "pkgconfig",   "1.0.0"
 github "repository",  "2.3.0"
-github "ruby",        "7.2.4"
+github "ruby",        "7.3.0"
 github "stdlib",      "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+## Source Code Tools
+## TODO: add "svn"
+
+## Languages
+github "java",     "1.4.0"
+## TODO: add groovy
+
+## Databases (for oracle use LDSTech Oracle VM with Vagrant)
+github "mysql",    "1.2.0"
+
+## IDEs
+github "eclipse",     "2.3.0"
+github "intellij",    "1.5.1"
+## Virtualization
+github "vagrant",      "3.0.7"
+github "virtualbox",   "1.0.11"
+
+## Text Editor
+github "sublime_text_2",     "1.1.2"
+
+## Additional Tools
+## TODO: add db visualizer
+## TODO: add yourkit
