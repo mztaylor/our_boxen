@@ -73,6 +73,7 @@ github "mysql",    "1.2.0"
 ## IDEs
 github "eclipse",     "2.3.0"
 github "intellij",    "1.5.1"
+
 ## Virtualization
 github "vagrant",      "3.0.7"
 github "virtualbox",   "1.0.11"
